@@ -1,9 +1,9 @@
 # IDL2-ejercicios-python
-# Ejercicios de Tipos de Estructuras en Python - IDL2 🐍
+# Ejercicios de Tipos de Estructuras en Python - IDL2 
 
 Repositorio correspondiente a la evaluación **IDL2** del curso **Proyecto Productivo IA**. Contiene una colección de **30 ejercicios prácticos** desarrollados en Python enfocados en el dominio de las principales estructuras de programación.
 
-## 📂 Contenido del Repositorio
+## Contenido del Repositorio
 
 Los 30 ejercicios están organizados por categorías según el tipo de estructura utilizada:
 
@@ -11,12 +11,12 @@ Los 30 ejercicios están organizados por categorías según el tipo de estructur
 * **2. Estructuras Condicionales:** Toma de decisiones utilizando `if`, `elif` y `else` (simples, dobles y anidadas).
 * **3. Estructuras Repetitivas (Bucles):** Iteraciones y control de flujo mediante ciclos `for` y `while`.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3.x
 * **Control de versiones:** Git y GitHub
 
-## 🚀 Cómo ejecutar los ejercicios
+## Cómo ejecutar los ejercicios
 
 1. Clona este repositorio en tu computadora:
    ```bash
@@ -28,7 +28,7 @@ Los 30 ejercicios están organizados por categorías según el tipo de estructur
    python ejercicio1.py
    ```
 
-## 👥 Autores
+## Autora
 
 * **Grupo 11** - Estudiante: **Monica Llashag**
 * Curso: *Proyecto Productivo IA*
